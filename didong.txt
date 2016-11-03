@@ -1,2 +1,6 @@
 fork Test
 This is Didong fork Test
+我是一个好学生，好好学习，天天向上
+我再来一行，看你怎么处理，哈哈
+I Love You
+GUI
